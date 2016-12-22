@@ -1,3 +1,5 @@
+	GIT COMMANDS								Description
+	------------------------------------------------------------------------------------------------------------------------------------------------------
 	ssh-keygen -t rsa							 [to generate ssh key]
 	ssh-T git@github.com 							 [In order to permanently store ssh key with github]
 	git init 								 [to initialize git repo]
